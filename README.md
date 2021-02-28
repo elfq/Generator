@@ -1,3 +1,9 @@
+# Installation
+
+```
+pip install git+https://github.com/elfq/Generator
+```
+
 # Generator
 
 Generate a 10 character long uppercase string with integers:
